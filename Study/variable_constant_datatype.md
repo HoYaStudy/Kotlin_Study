@@ -1,8 +1,8 @@
 # Variable, Constant and Data Type
 
-Kotlin은 static type system을 사용하므로, 변수 선언 시 지정한 data type에 맞는 값을 대입해야한다.
+Kotlin은 `static type system`을 사용하므로, 변수 선언 시 지정한 data type에 맞는 값을 대입해야한다.
 
-Kotlin은 type inference를 지원하므로, 변수 선언 시 초기값을 지정할 경우 data type을 생략하더라고 값에 의해 type을 추론할 수 있다.
+Kotlin은 `type inference`를 지원하므로, 변수 선언 시 초기값을 지정할 경우 data type을 생략하더라고 값에 의해 type을 추론할 수 있다.
 
 ## Variable
 
